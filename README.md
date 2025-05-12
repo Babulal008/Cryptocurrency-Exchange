@@ -11,7 +11,7 @@ In short, building your own Uniswap allows you to replicate this decentralized a
 
 ### To run this repo
 
-git clone- https://github.com/viveknarula1980/Cryptocurrency-Exchange.git
+git clone- https://github.com/user-name/Cryptocurrency-Exchange.git
 
 2.npm i
 
