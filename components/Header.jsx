@@ -1,6 +1,5 @@
 import React from "react";
 
-//INTERNAL IMPORT
 import { shortenAddress } from "../utils/index";
 
 const Header = ({ address, connect }) => {
