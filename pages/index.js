@@ -1,6 +1,5 @@
 import React, { useEffect, useState, useContext } from "react";
 
-//INTERNAL IMPORT
 import {
   Header,
   Footer,
