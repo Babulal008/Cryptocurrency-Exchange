@@ -19,6 +19,8 @@ export default function App({ Component, pageProps }) {
       <script src="assets/js/plugin/jquery.nice-select.min.js"></script>
       <script src="assets/js/plugin/wow.min.js"></script>
       <script src="assets/js/main.js"></script>
+          // <script src="assets/js/main.js"></script>
+
     </>
   );
 }
