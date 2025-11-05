@@ -20,4 +20,4 @@ git clone- https://github.com/user-name/Cryptocurrency-Exchange.git
 
 ## Contributing:
 
-Contributions are welcome! Please open an issue to discuss proposed changes or submit a pull request.
+Contributions are welcome! Please open an issue to discuss proposed changes or submit a pull request
