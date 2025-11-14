@@ -29,7 +29,7 @@ const Hero = ({
         <img src="assets/img/banner-map.png" alt="" class="three" />
       </div>
 
-      <div class="hero-area">
+      <div class="hero-area main-area">
         <div class="container">
           <div class="row align-items-center justify-content-between">
             <div class="col-xl-7 col-lg-6">
